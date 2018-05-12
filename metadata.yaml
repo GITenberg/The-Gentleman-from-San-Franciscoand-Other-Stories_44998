@@ -1,0 +1,63 @@
+_repo: The-Gentleman-from-San-Franciscoand-Other-Stories_44998
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Котелянский, Самуел Соломонович
+    - Koteliansky, S.S.
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, Samuel Solomonovitch
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+  - agent_name: Woolf, Leonard
+    alias: Woolf, Leonard Sidney
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '4565'
+    url: http://www.gutenberg.org/2009/agents/4565
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolf
+covers:
+- cover_type: archival
+  image_path: 44998-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bunin, Ivan Alekseevich
+    aliases:
+    - Bunin, Ivan Alekseyevich
+    - Bunin, I. A. (Ivan Alekseevich)
+    - Бунин, Иван Алексеевич
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '38667'
+    url: http://www.gutenberg.org/2009/agents/38667
+description: Translation of Gospodin iz San Frantsisko.
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Soviet Union -- Social life and customs -- Fiction'
+- !lcsh 'Bunin, Ivan Alekseevich, 1870-1953 -- Translations into English'
+tableOfContents: The gentleman from San Francisco -- Gentle breathing -- Kasimir Stanislavovitch
+  -- Son.
+title: The Gentleman from San Francisco, and Other Stories
+url: http://www.gutenberg.org/ebooks/44998
